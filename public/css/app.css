@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #93c5fd;
+    background-size: cover; /* This makes the background image cover the entire element */
+    background-repeat: no-repeat;
+    background-position: center center; /* This centers the background image */
+    height: 100vh; /* Ensure the body takes up the full height of the viewport */
+    width: 100%; /* Ensure the body takes up the full width */
+}
+
+
+/* .form{
+  background-color: black;
+  opacity: 0.6;
+  width: 100vw;
+} */
